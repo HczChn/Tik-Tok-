@@ -1,7 +1,7 @@
 # Tik-Tok-
 Tik Tok
 前情提要：
-下载链接 ：IOS旧版应用
+下载链接 ：IOS旧版应用 https://app.even.stream
 这个网站可以下载到文中需要的App
 
 教程分2大步骤
@@ -49,9 +49,9 @@ Tik Tok
 【2】安装旧版TikTok
   1.有能力的自行谷歌抓包旧版下载，这里不展开了。
 
- 2.登陆别人Apple ID 下载已经抓好的旧版TikTok。此为链接: IOS旧版应用
+ 2.登陆别人Apple ID 下载已经抓好的旧版TikTok。此为链接: IOS旧版应用 https://app.even.stream
 ，网页上有操作详情步骤：
-【注：二次验证的验证码，请选择发短信，不要发送给设备。不是我的设备，我只是搬运工；如果没有电报，我最多也就能帮你查看验证码】
+【注：二次验证的验证码，请选择发短信，不要发送给设备。不是我的设备，我只是搬运工。】
 
 到此结束
 文中提到的代码如下，可以直接复制
@@ -70,4 +70,4 @@ hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
 【以上，感谢电报群里的大佬们！整理者电报频道：https://t.me/huangdi321】
 
 另附赠 安卓TikTok链接【 破解版apk文件】
-TikTok1.2.2 apk
+TikTok1.2.2 apk https://drive.google.com/file/d/1Vo4wLDvKgWGQkv_iVBSW4drbSg5HE25W/view?usp=sharing
